@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### 需要使用网易云node接口项目
+```
+https://github.com/Binaryify/NeteaseCloudMusicApi/tree/master/docs
